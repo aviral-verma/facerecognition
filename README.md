@@ -1,8 +1,5 @@
 # FaceRecognition
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
-
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+This is the frontend of my FaceRecognition web application made using React.js, Node.js+Express.js, HTML, CSS, etc.
+The app uses a Machine Learning API to detect faces on images. Just go and paste the address of any image on the text box and press 'Detect'. You will get a box surrounding the face on the image.
+The application can be found live at https://faceecognition-aviralverma.herokuapp.com
